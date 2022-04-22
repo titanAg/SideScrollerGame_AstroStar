@@ -1,6 +1,6 @@
 # SideScrollerGame_AstroStar
 
-## Kyle Orcutt - SideScroller game I made in my first year of school
+## SideScroller game I made in my first year of school
 ### Object of the game -> survive the asteroids field and collect crystals for points
 ### Mechanics:
 ###    - Speed of the game and rate of spawning increases as the level progresses
