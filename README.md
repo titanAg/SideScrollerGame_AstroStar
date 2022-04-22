@@ -22,5 +22,8 @@
 ![2022-04-21_22h23_48](https://user-images.githubusercontent.com/97991414/164624975-5bde4d88-a38e-4ef6-ac05-a492aa5424a7.png)
 
 
+## You win!
+![image](https://user-images.githubusercontent.com/97991414/164742399-ad5df264-eaa6-473d-b3ec-45f6ec800ca4.png)
+
 ## You lose!
 ![2022-04-21_22h23_52](https://user-images.githubusercontent.com/97991414/164624983-81c5a292-e5ab-4261-8912-d03880a864a3.png)
